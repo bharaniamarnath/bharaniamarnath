@@ -1,4 +1,4 @@
-Hello. I am Bharani Amarnath. Welcome to my Github.
+Hello World.
 
 <!---
 bharaniamarnath/bharaniamarnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
